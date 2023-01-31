@@ -4,6 +4,7 @@ Created on Sun Sep 18 17:03:31 2022
 
 @author: hiram
 """
+#こんにちは
 
 def culcScore(color_thres:float,color_score:float,char_thres:float,char_score:float):
     thres_score = 60
